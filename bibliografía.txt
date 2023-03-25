@@ -1,2 +1,2 @@
 “Ingeniería del Software, un enfoque práctico” Ed. MC Graw Hill 1993.
-
+“ Lenguaje Unificado de Modelado. Manual de referencia” Ed. Addison_Wesley 2000.
